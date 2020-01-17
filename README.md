@@ -24,7 +24,7 @@ Assignment of the value of a variable to another variable | Affect <<identifier>
 Condition | If - condition - action ;; | `If - i > j -Give Aft_5 10 ;;`
 
 
-## Exemple de Code 
+## sample code
 `Start_Program` <br/>
 `Int_Number` i , j, Aft_5 ;;<br/>
 `Give` i 23 ;; <br/>
